@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-c)-e$zizy4c^yj^5qxlcjeigok4*688by0*3f#2c4l2ib#5__e
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ficha-de-salud.onrender.com']
 
 
 # Application definition
