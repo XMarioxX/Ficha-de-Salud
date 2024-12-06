@@ -1,0 +1,4 @@
+django-cors-headers
+pdfrw
+reportlab
+djangorestframework
